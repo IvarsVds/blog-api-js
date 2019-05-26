@@ -1,0 +1,4 @@
+[ ] write a function that flattens out Tag array
+[ ] write code that will update post tags, when using /posts/:id PUT route
+[ ] maybe figure out a good way to use winston's combined output
+[ ] whatever idea that improves this project
